@@ -19,11 +19,10 @@
     <br><br>
     POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](http://www.powr.io/)
     <br><br>
-    =Free Features=
-    <br>
+    **Free Features**
     * Create and add unlimited banners to one seamless slider!<br> * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.<br> * Design and add custom images, videos, and events with no extra software. <br> * Easily customize layout, sizing, and spacing.<br> * Built-in support for text in any language.<br> * Mobile responsive design looks great on any device. 
-    <br><br>
-    =Upgrade to POWr Pro and:=
+
+    **Upgrade to POWr Pro and:**
     * Eliminate all POWr logos and watermarks;
     * Boost plugin load speeds;
     * Receive premium POWr support;
