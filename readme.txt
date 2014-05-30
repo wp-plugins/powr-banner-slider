@@ -26,12 +26,26 @@ POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](
 * Receive premium POWr support
 * Support the development of other great plugins
 Test
+=Test2=
+= Test3 =
+* Eliminate all POWr logos and watermarks,
+* Boost plugin load speeds,
+* Receive premium POWr support,
+* Support the development of other great plugins
+* Test1, * Test1, * Test1
 <br>
-*   Eliminate all POWr logos and watermarks
-*   Boost plugin load speeds
-*   Receive premium POWr support
-*   Support the development of other great plugins
-
+*Test2, *Test2, *Test2
+<br>
+*Test3,
+*Test3,
+*Test3
+<br>
+*Test4,
+*Test4,
+*Test4
+<br>
+Bullet: &#149;
+Bullet2: &bull;
 
 == Installation ==
 To install POWr Banner Slider
