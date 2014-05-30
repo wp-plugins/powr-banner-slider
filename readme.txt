@@ -9,21 +9,25 @@
     License: GPLv2 or later
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-    Create a responsive banner slider in seconds 
+    POWr Banner Slider lets you create and customize beautiful, mobile responsive forms that you can edit right in your web page!
 
     == Description ==
-    POWr Banner Slider is a mobile-responsive, fully-customizable plugin that you can edit **right in the page**.
+    POWr Banner Slider lets you create and customize beautiful, mobile responsive forms that you can edit right in your web page!
+    <br><br>
+    **POWr Banner Slider** is a fast, simple, and easily customized plugin you can edit **right in your web page**.
     Add the widget to your site, or use the shortcode **[powr-banner-slider]** to add Banner Slider to any post.
     <br><br>
-    Deliver your brand message with a easy-to-use, responsive banner slider.<br><br>Banner slider allows you to create HTML5 banners right in the page, without expensive software. Customize banner layout, text, and images, and link to any page on the web. You can also add custom photos, videos, or events.<br><br>Add an unlimited number of slides, add captions and thumbnail images, choose animation controls, and fully customize the look and feel of the slider to fit your brand. 
+    POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](http://www.powr.io/)
     <br><br>
-    The basic version of the POWr Banner Slider is free!
+    =Free Features=
+    <br>
+    * Create and add unlimited banners to one seamless slider!<br> * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.<br> * Design and add custom images, videos, and events with no extra software. <br> * Easily customize layout, sizing, and spacing.<br> * Built-in support for text in any language.<br> * Mobile responsive design looks great on any device. 
     <br><br>
-    POWr plugins can be used an virtually any website, learn more at [www.POWr.io](http://www.powr.io/)
-    <br><br>
-    Features:
-    <br><br>
-    * Add unlimited slides<br> * Design stunning HTML5 banners right in your page<br> * Add any combination of images, videos, banners, and events<br> * Choose from eye-catching CSS3 slide transitions, looping, and automatic slide controls<br> * Customize all fonts, colors, and backgrounds to fit your brand<br> * Add and customize thumbnail previews<br> * Add custom captions to all images and videos<br> * Fully customize slider skin - from buttons to background<br> * Language support - customize text to use any language<br> * Mobile responsive - designed to look great on desktop, tablets, and mobile
+    =Upgrade to POWr Pro and:=
+    * Eliminate all POWr logos and watermarks;
+    * Boost plugin load speeds;
+    * Receive premium POWr support;
+    * Support the development of other great plugins!
 
 
     == Installation ==
