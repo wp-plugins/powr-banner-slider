@@ -18,7 +18,12 @@ Add the widget to your site, or use the shortcode **[powr-banner-slider]** to ad
 POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](http://www.powr.io/)
 <br><br>
 = Free Features =
-* Create and add unlimited banners to one seamless slider!, * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more., * Design and add custom images, videos, and events with no extra software. , * Easily customize layout, sizing, and spacing., * Built-in support for text in any language., * Mobile responsive design looks great on any device. 
+* Create and add unlimited banners to one seamless slider!
+ * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
+ * Design and add custom images, videos, and events with no extra software. 
+ * Easily customize layout, sizing, and spacing.
+ * Built-in support for text in any language.
+ * Mobile responsive design looks great on any device. 
 <br><br>
 = Upgrade to POWr Pro and: =
 * Eliminate all POWr logos and watermarks
