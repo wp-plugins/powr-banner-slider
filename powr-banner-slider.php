@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Banner Slider
     Plugin URI: http://www.powr.io
-    Description: Create a responsive banner slider in seconds  Add the widget to your theme, or create a Banner Slider on ANY page or post by using the shortcode [powr-banner-slider]. Then, simply visit your site and click the settings icon to customize your Banner Slider right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Create a beautiful banner slider in seconds! Add the widget to your theme, or create a Banner Slider on ANY page or post by using the shortcode [powr-banner-slider]. Then, simply visit your site and click the settings icon to customize your Banner Slider right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
