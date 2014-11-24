@@ -18,9 +18,7 @@ POWr is a cloud-based set of free Plugins. Your POWr account lets you add, edit,
 Add Banner Slider to your site in minutes. After installing, add the widget to your site, or use the shortcode **[powr-banner-slider]** to add Banner Slider to any post.
 <br>
 <blockquote>
-<h2>
-<a href='http://www.powr.io/plugins/banner-slider'>About Banner Slider</a> | <a href='http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site'>Install Tutorial</a> | <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>
-</h2>
+<a href='http://www.powr.io/plugins/banner-slider'><h2>About Banner Slider</h2></a> | <a href='http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site'><h2>Install Tutorial</h2></a> | <h2><a href='http://www.powr.io/knowledge-base'>Knowledge Base</a></h2>
 </blockquote>
 <br>
 = Free Features =
