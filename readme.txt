@@ -19,7 +19,7 @@ Add Banner Slider to your site in minutes. After installing, add the widget to y
 <br>
 <blockquote>
 <h2>
-<a href='https://www.powr.io/plugins/banner-slider'>About Banner Slider</a> | <a href='http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site'>Install Tutorial</a> | <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>
+<a href='http://www.powr.io/plugins/banner-slider'>About Banner Slider</a> | <a href='http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site'>Install Tutorial</a> | <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>
 </h2>
 </blockquote>
 <br>
