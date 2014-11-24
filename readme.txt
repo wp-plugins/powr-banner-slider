@@ -14,11 +14,10 @@ POWr Banner Slider lets you create and customize beautiful, mobile responsive fo
 == Description ==
 POWr is a cloud-based set of free Plugins. Your POWr account lets you add, edit, and customize POWr Plugins **right in your webpage**.
 <br>
+<br>
 Add Banner Slider to your site in minutes. After installing, add the widget to your site, or use the shortcode **[powr-banner-slider]** to add Banner Slider to any post.
 <br>
-<blockquote>
-= [About Banner Slider](https://www.powr.io/plugins/banner-slider) | [Install Tutorial](http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site) | [Knowledge Base](http://www.powr.io/knowledge-base)
-</blockquote>
+    [About Banner Slider](https://www.powr.io/plugins/banner-slider) | [Install Tutorial](http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site) | [Knowledge Base](http://www.powr.io/knowledge-base)
 <br>
 = Free Features =
 * Create and add unlimited banners to one seamless slider!
@@ -36,7 +35,6 @@ Add Banner Slider to your site in minutes. After installing, add the widget to y
 * Boost plugin load speeds
 * Receive premium POWr support
 * Support the development of other great plugins
-
 
 == Installation ==
 To install POWr Banner Slider
