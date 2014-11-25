@@ -16,12 +16,7 @@ POWr Banner Slider is a free cloud-based application.  Create a POWr account to
 <br>
 <br>
 To use Banner Slider, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
-<br>
-<br>
-Add Banner Slider to your site in minutes. After installing, add the widget to your site, or use the shortcode **[powr-banner-slider]** to add Banner Slider to any post.
-To install Banner Slider,
 
-<br>
 <blockquote>
 = <a href='https://www.powr.io/plugins/banner-slider'>Download</a>  |  <a href='http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
 <br>
