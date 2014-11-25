@@ -12,13 +12,18 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 POWr Banner Slider lets you create and customize beautiful, mobile responsive forms that you can edit right in your web page!
 
 == Description ==
-POWr is a cloud-based set of free Plugins. Your POWr account lets you add, edit, and customize POWr Plugins **right in your webpage**.
+POWr Banner Slider is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
+<br>
+<br>
+To use Banner Slider, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
 <br>
 <br>
 Add Banner Slider to your site in minutes. After installing, add the widget to your site, or use the shortcode **[powr-banner-slider]** to add Banner Slider to any post.
+To install Banner Slider,
+
 <br>
 <blockquote>
-= <a href='https://www.powr.io/plugins/banner-slider'>About Banner Slider</a> | <a href='http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site'>Install Tutorial</a> | <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a> =
+= <a href='https://www.powr.io/plugins/banner-slider'>Download</a>  |  <a href='http://www.powr.io/how-to-add-banner-slider-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
 <br>
 </blockquote>
 
@@ -30,7 +35,7 @@ Add Banner Slider to your site in minutes. After installing, add the widget to y
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
 <br>
-= Upgrade to POWr Premium ($2.99) and: =
+= Upgrade to POWr Premium ($2.99)/month and: =
 * Eliminate all POWr logos and watermarks
 * Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images.
 * Advanced Video Options - set play and autoplay options for video slides.
@@ -59,7 +64,7 @@ Want a more detailed tutorial? Visit [How to add Banner Slider to your Wordpress
 
 = How do I add Banner Slider to a page or blog post? = Add the shortcode **[powr-banner-slider label='Enter any label here']** to any page or post. Then visit your live site to edit.
 
-= Can I add more than one Banner Slider? = Yes, absolutely!  To clone your Banner Slider, just add the exact same shortcode to pages or posts.  To create a new version of Banner Slider, add a different shortcode to each page or post, ex [powr-banner-slider label='first form'], and [powr-banner-slider label='second form'].
+= Can I add more than one Banner Slider? = Yes, absolutely!  To clone your Banner Slider, just add the exact same shortcode to pages or posts.  To create a new version of Banner Slider, add a different shortcode to each page or post, for example: **[powr-banner-slider label='first form']**, and **[powr-banner-slider label='second form']**.
 
 = Will my users see the settings icon in the corner of the Banner Slider? = No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
 
