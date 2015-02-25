@@ -12,15 +12,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 POWr Banner Slider lets you create and customize beautiful, mobile responsive forms that you can edit right in your web page!
 
 == Description ==
-POWr Banner Slider is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
+POWr Banner Slider is a free, cloud-based plugin. Create a POWr account to edit and customize Banner Slider right in your live web page.
 <br>
 <br>
-To use Banner Slider, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
-
+Download and install POWr Banner Slider. Then drop the widget anywhere in your theme. Or add to a page/post by clicking the POWr Icon in the WP text editor.
+<br>
+<br>
+Or add this shortcode to a page or post: [powr-banner-slider label=“Enter a Label”].  Hint: use a different “LABEL” to create a new version of POWr Banner Slider.
+<br>
+<br>
+Check out 40 other free tools from <a href='https://www.powr.io/plugins'>POWr.io</a>
+<br>
+<br>
 <blockquote>
-= <a href='https://www.powr.io/plugins/banner-slider'>Download</a>  |  <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
+= <center><a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 Minute Install</a></center> =
 <br>
 </blockquote>
+
 
 = Free Features =
 * Create and add unlimited banners to one seamless slider!
@@ -30,27 +38,31 @@ To use Banner Slider, download and install the plugin, then add to your site as 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
 <br>
-= Upgrade to POWr Premium ($2.99)/month and: =
+= Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images.
 * Advanced Video Options - set play and autoplay options for video slides.
 * Better Buttons - adjustable sizing for scroll buttons.
-* Boost plugin load speeds
 * Receive premium POWr support
 * Support the development of other great plugins
 
 == Installation ==
-To install POWr Banner Slider
-<br><br>
-1. Upload 'powr-banner-slider.php' to the '/wp-content/plugins/' directory
+Download, and Install, and Activate POWr Banner Slider
 <br>
-2. Activate the plugin through the 'Plugins' menu in WordPress
-<br><br>
-To add POWr Banner Slider as a widget, go to **Appearance->Widgets**, and drag POWr Banner Slider to where you'd like it to appear.
-<br><br>
-To add Banner Slider within a post or a page, simply write the shortcode **[powr-banner-slider label='MY LABEL']** (including the brackets) where you'd like your Banner Slider to appear. Then visit your page!
-<br><br>
-Want a more detailed tutorial? Visit [How to add Banner Slider to your Wordpress site](http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site)
+<br>
+Add the POWr Banner Slider anywhere in your theme in the Widgets menu.
+<br>
+<br>
+Or add to a page/post by clicking the POWr Icon in the WP text editor.
+<br>
+<br>
+Then visit your site to and click the settings icon to edit right in the page.
+<br>
+<br>
+<blockquote>
+= <center><a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 Minute Install</a></center> =
+<br>
+</blockquote>
 
 
 == Frequently Asked Questions ==
@@ -88,6 +100,9 @@ Improved SSL Support
 = 1.2 =
 Improved loading speed
 
+= 1.3 =
+Easily add POWr plugins right from the text editor.
+
 
 
 == Changelog ==
@@ -99,5 +114,8 @@ Improved loading speed
 
 = 1.2 =
 * Improved loading speed
+
+= 1.3 =
+Easily add POWr plugins right from the text editor.
 
 
