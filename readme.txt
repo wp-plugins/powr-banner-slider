@@ -17,9 +17,7 @@ POWr Banner Slider is a free, cloud-based plugin. Create an account to edit POWr
 <br>
 Download, Install, and Activate POWr Banner Slider. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr Icon in the WP text editor.
 <br>
-<br>
 = <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
-<br>
 <br>
 Check out 40 other free tools from <a href='https://www.powr.io/plugins'>POWr.io</a>
 <br>
@@ -52,7 +50,6 @@ Or add to a page/post with the POWr Icon in the WP text editor.
 <br>
 <br>
 Then visit your site to and click the settings icon to edit right in the page.
-<br>
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 
