@@ -12,22 +12,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 POWr Banner Slider lets you create and customize beautiful, mobile responsive forms that you can edit right in your web page!
 
 == Description ==
-POWr Banner Slider is a free, cloud-based plugin. Create a POWr account to edit and customize Banner Slider right in your live web page.
+POWr Banner Slider is a free, cloud-based plugin. Create an account to edit POWr Plugins right in your live web page.
 <br>
 <br>
-Download and install POWr Banner Slider. Then drop the widget anywhere in your theme. Or add to a page/post by clicking the POWr Icon in the WP text editor.
+Download, Install, and Activate POWr Banner Slider. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr Icon in the WP text editor.
 <br>
 <br>
-Or add this shortcode to a page or post: [powr-banner-slider label=“Enter a Label”].  Hint: use a different “LABEL” to create a new version of POWr Banner Slider.
+= <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 <br>
 Check out 40 other free tools from <a href='https://www.powr.io/plugins'>POWr.io</a>
 <br>
-<br>
-<blockquote>
-= <center><a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 Minute Install</a></center> =
-<br>
-</blockquote>
 
 
 = Free Features =
@@ -50,19 +45,17 @@ Check out 40 other free tools from <a href='https://www.powr.io/plugins'>POWr.io
 Download, and Install, and Activate POWr Banner Slider
 <br>
 <br>
-Add the POWr Banner Slider anywhere in your theme in the Widgets menu.
+Then drop the widget anywhere in your theme.
 <br>
 <br>
-Or add to a page/post by clicking the POWr Icon in the WP text editor.
+Or add to a page/post with the POWr Icon in the WP text editor.
 <br>
 <br>
 Then visit your site to and click the settings icon to edit right in the page.
 <br>
 <br>
-<blockquote>
-= <center><a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 Minute Install</a></center> =
-<br>
-</blockquote>
+= <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+
 
 
 == Frequently Asked Questions ==
