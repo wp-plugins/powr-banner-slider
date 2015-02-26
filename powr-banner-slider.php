@@ -116,25 +116,27 @@
     add_shortcode( 'powr-banner-slider', 'powr_banner_slider_shortcode' );
 
     /* Add POWr Plug to tiny MCE */
-    add_action( 'admin_init', 'powr_tinymce_button' ); //This calls the function below
+    if( !function_exists('powr_tinymce_button') ){
+      add_action( 'admin_init', 'powr_tinymce_button' ); //This calls the function below
 
-    function powr_tinymce_button() {
-         if ( current_user_can( 'edit_posts' ) && current_user_can( 'edit_pages' ) ) {
-              add_filter( 'mce_buttons', 'powr_register_tinymce_button' );
-              add_filter( 'mce_external_plugins', 'powr_add_tinymce_button' );
-         }
+      function powr_tinymce_button() {
+           if ( current_user_can( 'edit_posts' ) && current_user_can( 'edit_pages' ) ) {
+                add_filter( 'mce_buttons', 'powr_register_tinymce_button' );
+                add_filter( 'mce_external_plugins', 'powr_add_tinymce_button' );
+           }
+      }
+      function powr_register_tinymce_button( $buttons ) {
+           array_push( $buttons, 'powr');
+           return $buttons;
+      }
+      function powr_add_tinymce_button( $plugin_array ) {
+           $plugin_array['powr'] = plugins_url( '/powr_tinymce.js', __FILE__ ) ;
+           return $plugin_array;
+      }
+      //CSS For icon
+      function powr_tinymce_css() {
+          wp_enqueue_style('powr_tinymce', plugins_url('/powr_tinymce.css', __FILE__));
+      }
+      add_action('admin_enqueue_scripts', 'powr_tinymce_css');
     }
-    function powr_register_tinymce_button( $buttons ) {
-         array_push( $buttons, 'powr');
-         return $buttons;
-    }
-    function powr_add_tinymce_button( $plugin_array ) {
-         $plugin_array['powr'] = plugins_url( '/powr_tinymce.js', __FILE__ ) ;
-         return $plugin_array;
-    }
-    //CSS For icon
-    function powr_tinymce_css() {
-        wp_enqueue_style('powr_tinymce', plugins_url('/powr_tinymce.css', __FILE__));
-    }
-    add_action('admin_enqueue_scripts', 'powr_tinymce_css');
   ?>

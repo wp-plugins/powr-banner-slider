@@ -15,13 +15,12 @@ Beautiful sliding banners for images and video.
 Beautiful sliding banners for images and video.
 <br>
 <br>
-POWr Banner Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access <a href='https://www.powr.io/plugins'>the entire plugin library</a>.
+POWr Banner Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
 <br>
 <br>
 First, download, install, and activate POWr Banner Slider. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr icon in the WP editor.
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
-<br>
 
 = Free Features =
 * Create and add unlimited banners to one seamless slider!
@@ -40,7 +39,7 @@ First, download, install, and activate POWr Banner Slider. Then drop the widget 
 * Support the development of other great plugins
 
 == Installation ==
-Download, and Install, and Activate POWr Banner Slider
+Download, install, and activate POWr Banner Slider.
 <br>
 <br>
 Then drop the widget anywhere in your theme.
