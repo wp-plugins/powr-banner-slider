@@ -9,18 +9,19 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-POWr Banner Slider lets you create and customize beautiful, mobile responsive forms that you can edit right in your web page!
+Beautiful sliding banners for images and video.
 
 == Description ==
-POWr Banner Slider is a free, cloud-based plugin. Create an account to edit POWr Plugins right in your live web page.
+Beautiful sliding banners for images and video.
 <br>
 <br>
-Download, Install, and Activate POWr Banner Slider. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr Icon in the WP text editor.
+POWr Banner Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access <a href='https://www.powr.io/plugins'>the entire plugin library</a>.
+<br>
+<br>
+First, download, install, and activate POWr Banner Slider. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr icon in the WP editor.
+<br>
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
-<br>
-Check out 40 other free tools from <a href='https://www.powr.io/plugins'>POWr.io</a>
-<br>
 
 
 = Free Features =
