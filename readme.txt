@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Beautiful sliding banners for images and video.
 
 == Description ==
-Beautiful sliding banners for images and video.
+[youtube http://www.youtube.com/watch?v=7XT9yL4EHyU]<br> Beautiful sliding banners for images and video.
 <br>
 <br>
 POWr Banner Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -23,8 +23,8 @@ First, download, install, and activate POWr Banner Slider. Then drop the widget 
 = <a href='http://www.powr.io/tutorials/how-to-add-banner-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
+* Design and add banners with images, videos, text and titles.
 * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
-* Design and add custom images, videos, and events with no extra software. 
 * Easily customize layout, sizing, and spacing.
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
