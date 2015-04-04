@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Beautiful sliding banners for images and video.
 
 == Description ==
-[youtube https://youtu.be/7XT9yL4EHyU] Beautiful sliding banners for images and video.
+[youtube https://www.youtube.com/watch?v=7XT9yL4EHyU] Beautiful sliding banners for images and video.
 <br>
 <br>
 POWr Banner Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
