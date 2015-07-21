@@ -24,17 +24,20 @@ First, download, install, and activate POWr Banner Slider. Then drop the widget 
 <br>
 = Free Features =
 * Design and add banners with images, videos, text and titles.
-* Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
+* Use expert templates or customize from scratch. 
+* Adjust fonts, colors, borders, backgrounds, and more.
+* Accept payments, donations, and subscriptions through PayPal.
 * Easily customize layout, sizing, and spacing.
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device. 
 <br>
 
-= Upgrade ($2.99)/mo and: =
+= Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images.
-* Advanced Video Options - set play and autoplay options for video slides.
-* Better Buttons - adjustable sizing for scroll buttons.
+* Set display time for slides
+* Enable auto-play for videos
+* Disable 'right click' to protect images
+* Adjust size of scroll buttons
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
